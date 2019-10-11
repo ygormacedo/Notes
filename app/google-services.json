@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "128133874413",
+    "firebase_url": "https://notes-649ac.firebaseio.com",
+    "project_id": "notes-649ac",
+    "storage_bucket": "notes-649ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128133874413:android:3e6e3956bbbef24f1182e4",
+        "android_client_info": {
+          "package_name": "br.com.zupandroid.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128133874413-rr2tna1ar2cr61ugc70mj8tsj0c843hc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.zupandroid.notes",
+            "certificate_hash": "6978b87c5b7f59018378fdd47740f8d15de7e08a"
+          }
+        },
+        {
+          "client_id": "128133874413-dhbij1lgqg5qbk7i6g2r7384k5vjcetq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHENsXbL_uOg3llBDPiTm5zFfNVMay6To"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128133874413-dhbij1lgqg5qbk7i6g2r7384k5vjcetq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
